@@ -1,4 +1,4 @@
-PH's Archviz x AI ComfyUI Workflow (SDXL + Flux) - Dedicated to Architectural Imagery - v0.27_241027 cc-by-sa 4.0
+PH's Archviz x AI ComfyUI Workflow (SDXL + Flux) - Dedicated to Architectural Imagery - v0.40_251027 cc-by-sa 4.0
 
 Web:		https://www.paulhansen.de
 Instagram:	https://www.instagram.com/paulhansen.design/
