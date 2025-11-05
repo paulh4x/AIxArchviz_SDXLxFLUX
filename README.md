@@ -228,16 +228,6 @@ All of the following nodes are outstanding work and highly recommended:
 
 ---
 
-## 💖 Support
-
-**If you consider supporting my work, please support the custom node developers first - they are the real MVPs here.**
-
-**ONLY IF YOU WANT TO SUPPORT MY WORK DIRECTLY** (no need to, no advantage/disadvantage gained):
-
-[![Support me on Ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/paulhansen)
-
----
-
 ## 🙏 Acknowledgements
 
 This workflow would not be possible without the incredible work of the ComfyUI custom node developers listed above. Each of these developers has created outstanding tools that make complex AI workflows accessible and powerful.
