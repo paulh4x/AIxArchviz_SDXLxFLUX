@@ -1,4 +1,4 @@
-PH's Archviz x AI ComfyUI Workflow (SDXL + Flux) - Dedicated to Architectural Imagery - v0.40_251027 cc-by-sa 4.0
+PH's Archviz x AI ComfyUI Workflow (SDXL + Flux) - Dedicated to Architectural Imagery - v0.37_251105 cc-by-sa 4.0
 
 Web:		https://www.paulhansen.de
 Instagram:	https://www.instagram.com/paulhansen.design/
@@ -13,11 +13,19 @@ IF YOU WANT TO SUPPORT MY WORK (NO NEED TO, NO ADVANTAGE/DISADVANTAGE GAINED) yo
 CHANGES
 _______
 
+v0.37_251105
+
+- quality of life updates ensuring compatibility with latest ComfyUI (0.3.68)
+
+v0.30_250326
+
+- quality of life updates ensuring compatibility with latest ComfyUI
+
 v0.27_241114
 
 - removed mixlabs nodes due to conflicting with other nodepacks and replaced FloatInputSliders with basic FloatInputs. Please be Aware, that you still can use Sliders, just be careful as it is not limited at the Moment, Will reimplement when possible again.
 
-v0.23_241027
+v0.23_241105
 
 - initial release
 
