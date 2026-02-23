@@ -5,6 +5,9 @@
 **Author:** Paul Hansen  
 **Version:** v0.37_251027  
 **License:** CC BY-SA 4.0
+---
+
+![v0.43 Screenshot](https://github.com/paulh4x/AIxArchviz_ASSETS/blob/develop/img/Screenshot%202026-02-23%20095420.png)
 
 ---
 
