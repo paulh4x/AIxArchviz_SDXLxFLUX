@@ -211,6 +211,20 @@ All of the following nodes are outstanding work and highly recommended:
 
 ## 📝 Version History
 
+### v0.43_260223
+
+- In case you get "Missing Nodes" messages with "If ANY retrn A else B [Microscope Icon]", "Float [Microscope Icon]", "Compare [Microscope Icon]", "Int [Microscope Icon]" -> On ComfyUI_windows_portable (recommended) install/update ComfyUI-Logic nodes (https://github.com/theUpsider/ComfyUI-Logic) through the Manager. Please be aware that these nodes have been ARCHIVED by the author.
+- due to comfyui's node 2.0 implementation and incompatibility with rgthree FAST GROUP BYPASSER, this workflow works best with classic node (settings -> comfy -> Nodes 2.0 -> Modern Node Design (Nodes 2.0) -> "off"), otherwise groups have to be bypassed manually
+- quality of life updates ensuring compatibility with latest ComfyUI (0.4.12)
+- replaced with core nodes to reduce external dependencies
+  - sipherxyz/comfyui-art-venture
+  - melMass/comfy_mtb
+  - jamesWalker55/comfyui-various
+- removed
+  - experimental section including automated inpainting, realtime sdxl previz stage and posed character control
+  - optional preprocessors for depth, canny and pose alternatives
+
+
 ### v0.37_251105
 
 - quality of life updates ensuring compatibility with latest ComfyUI (0.3.68)
