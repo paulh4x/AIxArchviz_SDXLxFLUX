@@ -126,7 +126,6 @@ Your base image input is crucial. This workflow is designed for architecture-rel
 
 **SDXL:**
 - `juggernaut XI.safetensors`
-- `realVisXL40_Turbo.safetensors` (only needed for "previz")
 
 **Recommended models to try:**
 - CrystalClearXL
@@ -147,7 +146,6 @@ Your base image input is crucial. This workflow is designed for architecture-rel
 
 - `diffusers_xl_depth_full.safetensors`
 - `diffusers_xl_canny_full.safetensors`
-- `thibaud_xl_openpose.safetensors` (optional, to be re-implemented with openpose-editor for posed people in future release)
 
 ### SAM2/Florence2
 
@@ -170,7 +168,7 @@ All of the following nodes are outstanding work and highly recommended:
 - [ComfyUI-Impact-Pack](https://github.com/ltdrdata/ComfyUI-Impact-Pack) - ltdrdata
 - [comfyui_controlnet_aux](https://github.com/Fannovel16/comfyui_controlnet_aux) - Fannovel16
 - [efficiency-nodes-comfyui](https://github.com/jags111/efficiency-nodes-comfyui) - jags111
-- [was-node-suite-comfyui](https://github.com/WASasquatch/was-node-suite-comfyui) - WASasquatch
+- [was-node-suite-comfyui](https://github.com/ltdrdata/was-node-suite-comfyui) - ltdrdata (Revised version, forked from WASasquatch)
 - [ComfyUI-post-processing-nodes](https://github.com/EllangoK/ComfyUI-post-processing-nodes) - EllangoK
 - [masquerade-nodes-comfyui](https://github.com/BadCafeCode/masquerade-nodes-comfyui) - BadCafeCode
 - [ComfyUI-GGUF](https://github.com/city96/ComfyUI-GGUF) - city96
@@ -179,19 +177,15 @@ All of the following nodes are outstanding work and highly recommended:
 - [comfy_mtb](https://github.com/melMass/comfy_mtb) - melMass
 - [ComfyUI_Comfyroll_CustomNodes](https://github.com/Suzie1/ComfyUI_Comfyroll_CustomNodes) - Suzie1
 - [ComfyUI_IPAdapter_plus](https://github.com/cubiq/ComfyUI_IPAdapter_plus) - cubiq
-- [comfyui-art-venture](https://github.com/sipherxyz/comfyui-art-venture) - sipherxyz
-- [ComfyMath](https://github.com/evanspearman/ComfyMath) - evanspearman
-- [comfyui-various](https://github.com/jamesWalker55/comfyui-various) - jamesWalker55
 - [ComfyUI-Advanced-ControlNet](https://github.com/Kosinkadink/ComfyUI-Advanced-ControlNet) - Kosinkadink
 - [ComfyUI-Logic](https://github.com/theUpsider/ComfyUI-Logic) - theUpsider
 - [rgthree-comfy](https://github.com/rgthree/rgthree-comfy) - rgthree
 - [ComfyUI_essentials](https://github.com/cubiq/ComfyUI_essentials) - cubiq
-- [cg-image-picker](https://github.com/chrisgoringe/cg-image-picker) - chrisgoringe
+- [cg-image-filter](https://github.com/chrisgoringe/cg-image-filter) - chrisgoringe
 - [ComfyUI-KJNodes](https://github.com/kijai/ComfyUI-KJNodes) - kijai
 - [ComfyUI-DepthAnythingV2](https://github.com/kijai/ComfyUI-DepthAnythingV2) - kijai
 - [ComfyUI-Florence2](https://github.com/kijai/ComfyUI-Florence2) - kijai
 - [ComfyUI-segment-anything-2](https://github.com/kijai/ComfyUI-segment-anything-2) - kijai
-- [image-resize-comfyui](https://github.com/palant/image-resize-comfyui) - palant
 - [ComfyUI-Easy-Use](https://github.com/yolain/ComfyUI-Easy-Use) - yolain
 
 ---
