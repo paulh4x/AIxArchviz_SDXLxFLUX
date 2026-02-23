@@ -3,7 +3,7 @@
 **Dedicated to Architectural Imagery**
 
 **Author:** Paul Hansen  
-**Version:** v0.37_251027  
+**Version:** v0.43_260223  
 **License:** CC BY-SA 4.0
 ---
 
