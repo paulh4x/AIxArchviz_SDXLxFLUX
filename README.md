@@ -196,19 +196,6 @@ All of the following nodes are outstanding work and highly recommended:
 
 ---
 
-## 🎁 Bonus Content
-
-### Experimental Flux Inpaint by Mask
-
-**To use this feature:**
-1. Connect a mask to the respective node in the "mask area" (yellow typo)
-2. Enable this process on the base cfg
-3. Use a prompt for what you want to see
-
-**Note:** This feature is a real experiment and does not always give the desired results.
-
----
-
 ## 📝 Version History
 
 ### v0.43_260223
